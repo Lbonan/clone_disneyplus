@@ -69,7 +69,7 @@ git clone https://github.com/Lbonan/clone_disneyplus.git
 > Sinta-se à vontade para fazer um fork, contribuir e adaptar o código às suas necessidades. 
 Caso faça algo interessante, adoraria saber sobre! 💡💻.
 
-Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
 
 ## 📷 Imagens do Projeto
