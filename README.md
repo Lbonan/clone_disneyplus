@@ -51,7 +51,7 @@ Este projeto simula uma página similar ao Disney+, com layout de hero, seções
 
 1. Clone o repositório:
     ````bash
-     git clone https://github.com/seu-usuario/clone_disneyplus.git
+     git clone https://github.com/Lbonan/clone_disneyplus.git
     ````
 2. Navegue até a pasta do projeto:
    ````bash
